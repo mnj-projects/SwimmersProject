@@ -1,0 +1,9 @@
+C:\Users\LAPTOP\Desktop\DP\Projects\formtrial\formtrial\bin\Debug\formtrial.exe.config
+C:\Users\LAPTOP\Desktop\DP\Projects\formtrial\formtrial\bin\Debug\formtrial.exe
+C:\Users\LAPTOP\Desktop\DP\Projects\formtrial\formtrial\bin\Debug\formtrial.pdb
+C:\Users\LAPTOP\Desktop\DP\Projects\formtrial\formtrial\obj\Debug\formtrial.csprojResolveAssemblyReference.cache
+C:\Users\LAPTOP\Desktop\DP\Projects\formtrial\formtrial\obj\Debug\formtrial.Form1.resources
+C:\Users\LAPTOP\Desktop\DP\Projects\formtrial\formtrial\obj\Debug\formtrial.Properties.Resources.resources
+C:\Users\LAPTOP\Desktop\DP\Projects\formtrial\formtrial\obj\Debug\formtrial.csproj.GenerateResource.Cache
+C:\Users\LAPTOP\Desktop\DP\Projects\formtrial\formtrial\obj\Debug\formtrial.exe
+C:\Users\LAPTOP\Desktop\DP\Projects\formtrial\formtrial\obj\Debug\formtrial.pdb
